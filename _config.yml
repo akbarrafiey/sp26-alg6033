@@ -13,13 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CS-GY 6923
-tagline: Machine Learning
-description: CS-GY 6923, Spring 2025 at NYU
+title: CS-GY 6033
+tagline: Design and Analysis of Algorithms I
+description: CS-GY 6033, Spring 2026 at NYU
 lecture: Fridays at 11:00am-01:30pm 
-location: 2 MetroTech Center Room 817, Brooklyn Campus
+location: 2 MetroTech Center Room 911, Brooklyn Campus
 author: Akbar Rafiey
-baseurl: '/sp25-ml6923' # the subpath of your site, e.g. /blog
+baseurl: '/sp26-alg6033' # the subpath of your site, e.g. /blog
 url: 'https://akbarrafiey.github.io' # the base hostname & protocol for your site, e.g. http://example.com
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
 
@@ -32,10 +32,10 @@ permalink: pretty
 aux_links:
   Akbar Rafiey:
     - 'https://akbarrafiey.github.io'
-  Previous Teaching:
-    - 'https://akbarrafiey.github.io/ML6923/'
-  #Just the Class on GitHub:
-   # - 'https://github.com/kevinlin1/just-the-class'
+  Ed discussion:
+    - 'https://edstem.org/us/courses/94268/discussion'
+  Gradescope:
+    - 'https://www.gradescope.com/courses/1233125'
 footer_content:
 
 # Collections for website data

@@ -3,7 +3,7 @@
 Welcome to CS-GY 6923 in Spring 2025!
 This page should answer most of the questions you might have about how the
 course is run. If you don't find what you're looking for here, feel free to
-make a post on [EdStem](https://edstem.org/us/courses/74675/discussion).
+make a post on [EdStem](https://edstem.org/us/courses/94268/discussion).
 
 
 ## Instructor
@@ -25,7 +25,7 @@ couple of websites.
 
 ### Ed Discussion
 
-We'll be using [EdStem](https://edstem.org/us/courses/74675/discussion) as our course message
+We'll be using [EdStem](https://edstem.org/us/courses/94268/discussion) as our course message
 board. You should have received an invitation via email, but if not you should
 be able to join by clicking the link above. Be sure to join EdStem as soon as possible,
 since all course communication will be done through it.
@@ -45,11 +45,11 @@ student if you feel that you know the answer.
 ### Gradescope
 
 We'll be using 
-[Gradescope](https://www.gradescope.com/courses/959935) for
+[Gradescope](https://www.gradescope.com/courses/1233125) for
 homework submission and grading. Most of the assignments will be a mixture of math and
 coding.
 You should have received an email invitation for Gradescope, but if not you can join with code
-`G3NXW3`.
+`8DYEKX`.
 
 ## Course Prerequisites
 
@@ -116,7 +116,7 @@ time on them is the best way to prepare for the exams. Assignments and their due
 
 There will be two types of assignments in CS-GY 6923: *programming labs* and *homeworks*.
 Homework (both written problems and coding labs) must be turned in to Gradescope by the 
-specified deadline. Use the code Z3GWBN to join the class on [Gradescope](https://www.gradescope.com/courses/959935). 
+specified deadline. Use the code 8DYEKX to join the class on [Gradescope](https://www.gradescope.com/courses/1233125). 
 We do not accept late work without prior permission (see ["Slip Days"](#slip-days)).
 
 *Programming labs*: Labs should be turned in as evaluated Jupyter notebooks. Do not clear 
