@@ -1,6 +1,6 @@
 # 📜 Syllabus
 
-Welcome to CS-GY 6923 in Spring 2025!
+Welcome to CS-GY 6033 in Spring 2026!
 This page should answer most of the questions you might have about how the
 course is run. If you don't find what you're looking for here, feel free to
 make a post on [EdStem](https://edstem.org/us/courses/94268/discussion).
@@ -12,14 +12,14 @@ make a post on [EdStem](https://edstem.org/us/courses/94268/discussion).
     `ar9530 [at] nyu.edu`<br>
     [webpage](https://akbarrafiey.github.io)<br>
     *Lecture:*
-        11:00qm-1:30pm Fridays, 2 MetroTech Center Room 817: Brooklyn Campus
+        11:00qm-1:30pm Fridays, 2 MetroTech Center Room 911, Brooklyn Campus
         <br>
     *Office Hours:*
-        11:00am-1:30pm Fridays in TBD
+        TBD
 
 ## Getting Started
 
-To get started in CS-GY 6923, you'll need to set up accounts on a
+To get started in CS-GY 6033, you'll need to set up accounts on a
 couple of websites.
 
 
@@ -46,48 +46,38 @@ student if you feel that you know the answer.
 
 We'll be using 
 [Gradescope](https://www.gradescope.com/courses/1233125) for
-homework submission and grading. Most of the assignments will be a mixture of math and
-coding.
-You should have received an email invitation for Gradescope, but if not you can join with code
+homework submission and grading. You should have received an email invitation for Gradescope, but if not you can join with code
 `8DYEKX`.
 
 ## Course Prerequisites
 
-Modern machine learning uses a lot of math! More than most other subjects in 
-computer science that you will study. Fortunately, the breadth of math used is 
-relatively narrow: besides basic calculus, you can get very far with an understanding 
-of just probability and linear algebra. That understanding needs to be solid for you 
-to succeed in this course. I list specific topics you should know from 
-probability and linear algebra:
+You **MUST** have these to take the course:
 
-### 1. Probability
-- Random variables, discrete and continuous probability distributions, expectation, 
-variance, covariance, correlation, conditional and joint probability, Gaussian 
-random variables, law-of-large-numbers.
+- CS 5403: Data Structures and Algorithms, or equivalent knowledge of fundamental data structures, and 
+- CS 6003: Foundations of Computer Science, or equivalent knowledge of discrete mathematics for computer science.
+- Familiarity with programming beyond an “Introduction to Programming” class.
 
-### 2. Linear Algebra
-- Matrices and vectors, vector inner and outer products, matrix-vector and 
-matrix-matrix multiplication, vector norms (e.g., Euclidean), matrix norms 
-(e.g., Frobenius, operator), triangle inequality, Cauchy-Schwarz, solving 
-systems of linear equations, linear independence, matrix rank, column/row span, 
-null space, orthogonal matrices, basics of eigenvectors, eigenvalues, and 
-eigendecomposition.
 
-You also need to be a good programmer for this course. All coding exercises and 
-assignments will be in Python. No prior experience specifically with Python is 
-required, but I will not be focused on teaching the language, besides showing you 
-specific tools useful for machine learning. So if you are not familiar with the basics, 
-you will need to spend time familiarizing yourself. See the TAs if you run into any issues!
+We will briefly review the material from prerequisites, but this does NOT replace taking them.
+
+This course is **not** intended for students who have already taken and passed with a grade of B or above (or equivalent) a comparable algorithms course, graduate or undergraduate; such a course need not cover
+precisely the same topics.
+
+
+We will be using Python for some of the algorithms in the course and any coding assignment should be done in Python. 
+No prior experience specifically with Python is 
+required, we will not be focused on teaching any language, besides showing you 
+specific tools and data structures useful for algorithm design.
 
 
 ### Required Materials
 
-You will not need to purchase any materials for this course; we'll use lecture slides the main
-resourc.
+You will not need to purchase any materials for this course; we'll use lecture slides as the main
+resource.
 If you'd like additional textbooks to study from, we can recommend these:
 
-- *An Introduction to Statistical Learning*, by James, Witten, Hastie, and Tibshirani. This book is available free for download from the NYU library.
-- *Elements of Statistical Learning*, by Hastie, Tibshirani, and Friedman for some more advanced topics. A free version of the book is available [here](https://hastie.su.domains/ElemStatLearn/).
+- Dasgupta, Papadimitriou, Vazirani; *Algorithms*
+- Cormen, Leiserson, Rivest, Stein; *Introduction to Algorithms*
 
 
 ## Lectures
@@ -97,7 +87,7 @@ they will be podcasted and posted online for remote viewing. Attendance is
 appreciated, but not required.
 
 
-You will be able to find the lecture recordings at our [NYU Brightspace Course](https://brightspace.nyu.edu/d2l/home/446536) under the zoom icon, cloud recording.
+You will be able to find the lecture recordings at our [NYU Brightspace Course](https://brightspace.nyu.edu/d2l/home/550908) under the zoom icon, cloud recording. You must login using your NYU Zoom account to have access. 
 
 
 ## Office Hours
@@ -107,30 +97,17 @@ regularly throughout the week. Please see the [office hours](office_hours.md) pa
 
 
 
-## Labs and Homeworks
+## Homeworks
 
-These assignments are completed at home and reinforce the material discussed in class. 
-I expect a lot of your learning to occur while working on these exercises, and investing 
-time on them is the best way to prepare for the exams. Assignments and their due dates
- will be posted on the course webpage.
+These assignments are completed at home and reinforce the material discussed in class. I expect a lot of your learning to occur while working on these exercises, and investing time on them is the best way to prepare for the exams. There will be about 8 homework assignments in total. Assignments and their due dates will be posted on the course webpage.
 
-There will be two types of assignments in CS-GY 6923: *programming labs* and *homeworks*.
-Homework (both written problems and coding labs) must be turned in to Gradescope by the 
-specified deadline. Use the code 8DYEKX to join the class on [Gradescope](https://www.gradescope.com/courses/1233125). 
-We do not accept late work without prior permission (see ["Slip Days"](#slip-days)).
+Homework (both written problems and coding labs) must be turned in to [Gradescope](https://www.gradescope.com/courses/1233125) by the specified deadline. We do not accept late work without prior permission (see ["Slip Days"](#slip-days) section). I encourage students to prepare written problem sets in LaTeX or Markdown (with math support.) You can use the template for LaTeX provided on the course webpage. Students will receive 10% extra credit on the Problem Set 1 for preparing it in LaTeX or Markdown. If you do write problems by hand, scan and upload as a PDF.
 
-*Programming labs*: Labs should be turned in as evaluated Jupyter notebooks. Do not clear 
-the output before turning in. 
+## Quizzes
 
-<br>
-
-*Written problem sets*: Turned in via Gradescope. While not required, I encourage students to 
-prepare written problem sets in LaTeX or Markdown (with math support.) You can use the template 
-for LaTeX provided on the course webpage.
-Students will receive 10% extra credit on the Problem Set 1 for preparing it in LaTeX or Markdown. 
-If you do write problems by hand, scan and upload as a PDF.
-
-
+There will be several short, in-class quizzes during the semester. Each quiz will take about 15–20 minutes and will focus mainly on material from the homework. You can expect about 5–6 quizzes in total. The date of each quiz will be announced at least one week in advance.
+These quizzes are designed to help you stay engaged with the homework and make sure you understand the ideas and problem-solving methods behind it. Most quiz questions will be very similar to, and sometimes exactly the same as, homework problems.
+Because homework can involve collaboration and the use of AI tools, these in-class quizzes give you a chance to show your own understanding and practice working through problems independently. For more information, please see the Collaboration and AI section.
 
 ### Regrade Requests
 
@@ -162,7 +139,10 @@ talk to ChatGPT about a problem, but don't copy its answer verbatim. Instead,
 wait about an hour and put the answer in your own words. Keep in mind that
 ChatGPT is infamous for being very confidently wrong, so be critical of its
 output. Also keep in mind that you won't have ChatGPT on the exams, so you'll
-need to understand the fundamental concepts for yourself in order to do well.
+need to understand the fundamental concepts for yourself in order to do well. 
+If we suspect that you copied your solution directly from AI, we will set up a 
+meeting with you where you will need to explain your solution. 
+If you fail to do so, you will receive zero points for the homework.
 
  - We have a zero tolerance policy for copied code or solutions: any students 
  with duplicate or very similar material will receive a zero on the offending assignment. 
@@ -199,25 +179,44 @@ the class. If something like that should arise, please let us know ASAP!
 
 ## Exams
 
+### Midterms
+There will be two midterm exams:
 
-There will be one midterm exam and one final exam:
 
+- **Midterm 1**:  March 13 in the classroom 
+- **Midterm 2**: May 01 in the classroom
 
-- **Midterm**:  March 14 
-- **Final Exam**: TBD
-
-The midterm exam will be held in-person during the regularly-scheduled lecture times. 
+The midterm exams will be held in-person during the regularly-scheduled lecture times. 
 Make sure you are available on those day. If there is any issue, let me know ASAP. 
-The final will be during the finals weeks.
+
+### Redemption Exams
+
+The final exam is a "no fault" final split into two sections:
+
+1. An optional Midterm 01 "Redemption" section focusing on Lectures 01 &mdash; 06
+2. An optional Midterm 02 "Redemption" section focusing on Lectures 07 &mdash; 12
+
+If your score on the midterm redemption section is higher than your score on the
+original midterm, it will replace that grade. Getting a lower score on a
+redemption section cannot hurt you (but it will make us sad). As a consequence,
+the redemption sections are effectively optional.
+
+Under this policy, a bad performance on an earlier exam can be erased by good
+performance on the same material in a later exam.
 
 
+**Example**: You got an "F" on Midterm 1 and a "B" on Midterm 2. You decide to take only the
+first redemption section on the final (though you could have taken both), and you
+receive an "A". Your midterm scores are now "A" and "B".
+
+The redemption exams will be held on the date scheduled by the registrar: **Friday, May 08**.
 
 ## Grading
 
 We'll be using the following grading scheme:
 
-- 20%: Programming Labs
-- 20%: Written Homeworks
+- 15%: Quizzes
+- 25%: Written Homeworks
 - 25%: Midterm
 - 25%: Final exam 
 - 10%: Class participation: This grade captures how much you contribute to your own 
@@ -230,31 +229,10 @@ your peers, on the class Ed forum. You can attend and actively contribute to off
 
 ## Course Objective
 
-- Students will learn how to view and formulate real world problems in the language of 
-machine learning. Categories of problems include those involving prediction, classification, 
-pattern recognition, and decision making.
+- Learn the use of algorithmic design strategies: divide-and-conquer, dynamic programming, greedy algorithms, etc.
+- Learn and be able to apply fundamental algorithms and data structures for solving other problems: searching, sorting, BSTs, priority queues, hash tables, etc.
+- Learn to use rigorous mathematics for algorithm design and analysis: observe, state, and prove structural properties that are used for designing efficient algorithms; prove the correctness and analyze the efficiency of algorithms (running time, space complexity, etc.), in the best case/worst case, or expected case, etc.
 
-- Through in-class demonstrations and at-homeprogramming labs, students will gain experiencea pplying 
-the most popular and most successful machine learning algorithms to example problems. 
-The goal is to prepare students to use these tools in industrial or academic positions.
-
-- In addition to experimental exploration, students will learn how theoretical analysis 
-can help explain the performance of machine learning algorithms, and ultimately guide 
-how they are used in practice, or lead to the design of entirely new methods.
-
-- Students will build experience with the most important mathematical tools used in machine learning, 
-including probability, statistics, and linear algebra. This experience will prepare them for 
-more advanced coursework or research in the subject.
-
-- A major goal is to prepare students to read and understand contemporary research in 
-machine learning, including papers from NeurIPS, ICML, ICLR, AAAI, JMLR, and other major 
-machine learning venues. Since machine learning is a rapidly evolving field, many of its most 
-powerful tools today may no longer be relevant in 15 years. The goal is to provide students with a 
-theoretical foundation that will allow them to keep up with changes in the field.
-
-- At the end of this course, every student should feel confident holding a conversation about 
-machine learning with anyone, no matter their experience in the field. This would include a 
-potential employer, a professor or graduate student working in the field, or a stranger on the subway.
 
 ## Support and Resources
 

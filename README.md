@@ -41,7 +41,7 @@ seo:
 
 ## How to get started:
 - Read the [syllabus](syllabus.md).
-- Join our [Ed Discussion](#) message board and [Gradescope](https://www.gradescope.com/courses/959935) with the email invitations you received earlier this week. If you didn’t receive an email, you can use the access code G3NXW3 for Gradescope. For Ed Discussion, if you didn’t receive an email, please let me know. 
+- Join our [Ed Discussion](https://edstem.org/us/courses/94268/discussion) message board and [Gradescope](https://www.gradescope.com/courses/959935) with the email invitations you received earlier this week. If you didn’t receive an email, you can use the access code G3NXW3 for Gradescope. For Ed Discussion, if you didn’t receive an email, please let me know. 
 
 
 {{  site.modules[0]  }}
@@ -65,3 +65,8 @@ seo:
 {{  site.modules[16]  }}
 {% comment %}
 {% endcomment %}
+
+
+## Acknowledgement
+
+Parts of this course material are based on the algorithms courses taught by Professor [Justin Eldridge](https://eldridgejm.github.io), used with permission.

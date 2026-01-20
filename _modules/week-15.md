@@ -8,6 +8,4 @@ May 01
   : [Solution]()&nbsp;&nbsp;
   : [info]()
 
-: **LEC 14**{: .label .label-gray } ML and algorithm design
-  : [PDF]() &nbsp;&nbsp;
-  : [Marked-PDF]()
+
