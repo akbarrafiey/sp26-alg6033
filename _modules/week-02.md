@@ -11,6 +11,6 @@ Feb 07
 
 Jan 30
 : **LEC 02**{: .label .label-gray } Asymptotic notation continued, search, sort and recurrence 
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](lectures/02-avg-time-complexity/Lec02.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
