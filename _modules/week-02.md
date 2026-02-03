@@ -10,7 +10,7 @@ Feb 07
 : **Due: Feb 05, 11:59pm**{: .label .label-red }
 
 Jan 30
-: **LEC 02**{: .label .label-gray } Asymptotic notation continued, search, sort and recurrence 
+: **LEC 02**{: .label .label-gray } Asymptotic notation continued
   : [PDF](lectures/02-avg-time-complexity/Lec02.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/02-avg-time-complexity/Lec02-marked.pdf)
 
