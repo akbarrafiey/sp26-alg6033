@@ -11,8 +11,8 @@ Feb 10
 : **Due: Feb 19, 11:59pm**{: .label .label-red }
 
 Feb 13
-: **LEC 04**{: .label .label-gray } Data structures
-  : [PDF]() &nbsp;&nbsp;
+: **LEC 04**{: .label .label-gray } Data structures I: BST, Heaps, Priority Queue
+  : [PDF](lectures/04-data-structure1/Lec04.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
 
