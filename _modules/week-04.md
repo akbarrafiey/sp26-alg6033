@@ -13,6 +13,6 @@ Feb 10
 Feb 13
 : **LEC 04**{: .label .label-gray } Data structures I: BST, Heaps, Priority Queue
   : [PDF](lectures/04-data-structure1/Lec04.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/04-data-structure1/Lec04-marked.pdf)
 
 
