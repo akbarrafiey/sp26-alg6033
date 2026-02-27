@@ -11,6 +11,6 @@ Feb 25
 
 Feb 27
 : **LEC 06**{: .label .label-gray } Finishing LSH, Graph algorithms I
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](lectures/06-graph-alg1/Lec06.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
