@@ -4,7 +4,7 @@ title: Week 7
 
 Mar 06
 : **LEC 07**{: .label .label-gray } Graph algorithms II
-  : [PDF]() &nbsp;&nbsp;
+  : [PDF](lectures/07-graph-alg2/Lec07.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
 

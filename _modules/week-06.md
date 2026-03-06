@@ -7,7 +7,7 @@ Feb 25
   : [PDF](homeworks/HW03/6033-HW03.pdf) &nbsp;&nbsp;
   : [Solution](#) &nbsp;&nbsp;
   : [LaTeX](homeworks/HW02/template.tex) &nbsp;&nbsp;
-: **Due: Feb 19, 11:59pm**{: .label .label-red }
+: **Due: March 09, 11:59pm**{: .label .label-red }
 
 Feb 27
 : **LEC 06**{: .label .label-gray } Finishing LSH, Graph algorithms I
