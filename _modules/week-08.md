@@ -10,6 +10,3 @@ Mar 13
   : [info]()
 
 
-: **LEC 08**{: .label .label-gray } Greedy algorithms
-  : [PDF]() &nbsp;&nbsp;
-  : [Marked-PDF]()
