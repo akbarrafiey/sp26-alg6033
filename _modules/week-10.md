@@ -12,4 +12,4 @@ Mar 23
 Mar 27
 : **LEC 08**{: .label .label-gray } Greedy Algorithms on Graphs
   : [PDF](lectures/08-greedy-alg1/Lec08.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/08-greedy-alg1/Lec08-marked.pdf)
