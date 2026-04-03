@@ -10,6 +10,6 @@ Mar 23
 : **Due: April 02, 11:59pm**{: .label .label-red }
 
 Mar 27
-: **LEC 08**{: .label .label-gray } Greedy Algorithms on Graphs
+: **LEC 08**{: .label .label-gray } Greedy Algorithms on Graphs I
   : [PDF](lectures/08-greedy-alg1/Lec08.pdf) &nbsp;&nbsp;
   : [Marked-PDF](lectures/08-greedy-alg1/Lec08-marked.pdf)
