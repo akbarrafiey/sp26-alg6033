@@ -14,6 +14,6 @@ Apr 08
 Apr 10
 : **LEC 10**{: .label .label-gray } Backtracking and Dynamic Programming
   : [PDF](lectures/10-backtrack-dp1/Lec10.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/10-backtrack-dp1/Lec10-marked.pdf)
 
 
