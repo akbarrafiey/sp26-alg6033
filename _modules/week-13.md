@@ -12,8 +12,8 @@ Apr 15
 
 
 Apr 17
-: **LEC 11**{: .label .label-gray } Dynamic Programming and Streaming
-  : [PDF]() &nbsp;&nbsp;
+: **LEC 11**{: .label .label-gray } LCS and String Matching
+  : [PDF](lectures/11-backtrack-dp2/Lec11.pdf) &nbsp;&nbsp;
   : [Marked-PDF]()
 
 Apr 17
