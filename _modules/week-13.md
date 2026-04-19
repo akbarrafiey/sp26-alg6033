@@ -14,7 +14,7 @@ Apr 15
 Apr 17
 : **LEC 11**{: .label .label-gray } LCS and String Matching
   : [PDF](lectures/11-backtrack-dp2/Lec11.pdf) &nbsp;&nbsp;
-  : [Marked-PDF]()
+  : [Marked-PDF](lectures/11-backtrack-dp2/Lec11-marked.pdf)
 
 Apr 17
 : **Quiz 05**{: .label .label-green }
